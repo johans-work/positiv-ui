@@ -1,2 +1,2 @@
 # positiv-ui
-UI framework basedon the Positivity.
+An UI framework based on positivistic principles outlined in the positiv-framework.
